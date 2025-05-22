@@ -1,5 +1,7 @@
 # Patientor: a patient record system
 
+Live Link: [https://patientor2.azurewebsites.net](https://patientor2.azurewebsites.net)
+
 ![preview](preview.gif)
 
 ## Project description
